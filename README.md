@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dilanasiri95@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
