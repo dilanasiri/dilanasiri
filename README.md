@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
+![MasterHead](https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg)
 <h1 align="center">Hi 👋, I'm Dilan Asiri</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif">
