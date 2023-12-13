@@ -1,5 +1,5 @@
 ![MasterHead](https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg)
-<h1 align="center">Hi 👋, I'm Dilan Asiri</h1>
+<h1 align="center">Hello! 👋, I'm Dilan Asiri</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif">
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/dilan_asiri" target="blank"><img src="https://img.shields.io/twitter/follow/dilan_asiri?logo=twitter&style=for-the-badge" alt="dilan_asiri" /></a> </p>
 
-- 🌱 I’m currently learning **React,Angular**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Web Application**
 
 - 📫 How to reach me **dilanasiri95@gmail.com**
 
-- ⚡ Fun fact **travelling**
+- ⚡ Fun fact **Gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
